@@ -10,3 +10,5 @@ install the required python libraries
 python -m pip install pandas numpy scikit-learn tensorflow
 
 Place a .csv with weather data in the project folder and run.
+
+This is me trying to update something here to see if it shows up for avery. 11/6/26 2:54pm
