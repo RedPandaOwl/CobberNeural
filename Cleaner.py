@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # 1. Load the original CSV file
-df = pd.read_csv("data/minneapolis.csv")
+df = pd.read_csv("RedPandaOwl/CobberNeural/Data Sets/Daily/Minneapolis.csv")
 
 # Record the original number of rows
 original_rows = len(df)
